@@ -776,9 +776,13 @@
             <sub><b>Calculate Age</b></sub>
         </a>
 </td>
+<td align="center">
+        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Skycast">
+            <sub><b>SkyCast</b></sub>
+        </a>
+     </td>
   </tr>
 </table>
-
 
 ## Run these projects online :
 

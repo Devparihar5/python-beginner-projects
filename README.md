@@ -2167,6 +2167,13 @@
             <br />
             <sub><b>Nishant Pacharne</b></sub>
         </a>
+    </td>
+<td align="center">
+        <a href="https://github.com/Devparihar5">
+            <img src="https://avatars.githubusercontent.com/u/54232149?v=4" width="100;" alt="Devparihar5"/>
+            <br />
+            <sub><b>Devendra Parihar</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
